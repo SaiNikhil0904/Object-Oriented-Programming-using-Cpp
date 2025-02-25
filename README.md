@@ -26,7 +26,9 @@ Got a suggestion or an improvement? **Feel free to fork and contribute!** 🚀
 ---
 
 ## 📜 License  
-🔓 This repository is **open-source** and free to use for learning purposes.  
+
+🔓 This repository is **open-source** and intended for **educational purposes**. Feel free to use, modify, and share the code.
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
 ### 🌟 If you find this repository helpful, don't forget to **Star ⭐** it!  
